@@ -1,0 +1,8 @@
+first_name,last_name,email,phone_number,birth_date,country,pastaba
+Rasa,Jankauskaitė,rasa.jankauskaite@example.com,+37061234567,1988-04-21,Lietuva,VALIDUS - gali buti importuotas
+,Petrauskas,jonas.petrauskas@example.com,+37060000000,1985-02-10,Lietuva,NEVALIDU - truksta vardo
+Mantas,Žilinskas,mantas.zilinskas@example.com,+37062345678,2035-11-01,Lietuva,NEVALIDU - gimimo data ateityje
+Ieva,Stankevičiūtė,ieva.stankeviciute@example.com,,1992-08-14,Lietuva,VALIDUS - gali buti importuotas
+Tomas,Valaitis,ne_el_pastas,+37061111111,1990-05-03,Lietuva,NEVALIDU - blogas el pastas
+Gabija,Kazlauskaitė,gabija.kazlauskaite@example.com,+37063333333,,Lietuva,VALIDUS - gimimo data tuscia galima
+Lukas,Butkus,lukas.butkus@example.com,+37064444444,1991-01-12,,NEVALIDU - truksta salies
